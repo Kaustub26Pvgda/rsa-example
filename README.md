@@ -12,8 +12,7 @@ Assignment work done for the **CS1702** (Network Security) course of our 6th Sem
     - [Encryption Process](#encryption-process)
     - [Decryption Process](#decryption-process)
     - [Helper Functions](#helper-functions)
-  - [Results](#results)
-  - [References](#references)
+  - [Results and Output](#results-and-output)
 
 ## Aim
 
@@ -74,6 +73,8 @@ The decryption process reverses the encryption:
 
 Additionally, colored output is used to improve readability when displaying the generated keys, ciphertext, and decrypted message.
 
-## Results
+## Results and Output
 
 The implementation successfully encrypts and decrypts messages using RSA. Testing with sample plaintext inputs verified that the decryption process accurately recovers the original message, ensuring the correctness of the encryption-decryption cycle.
+
+![Output Image](Output%20Image.png)
