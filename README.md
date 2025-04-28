@@ -77,4 +77,4 @@ Additionally, colored output is used to improve readability when displaying the 
 
 The implementation successfully encrypts and decrypts messages using RSA. Testing with sample plaintext inputs verified that the decryption process accurately recovers the original message, ensuring the correctness of the encryption-decryption cycle.
 
-![Output Image](Output%20Image.png)
+![Output Image](https://github.com/user-attachments/assets/162200f3-1cbc-4b88-8db9-b66c12626485)
